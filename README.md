@@ -1,5 +1,5 @@
 # ***Lebenslauf***
-
+![Bewerbungsbild](Bewerbungsbild.jpg)
 ## **Schulischer Werdegang**
 
 2008-2013       Allgemeinbildendes Gymnasium
